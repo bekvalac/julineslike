@@ -1,0 +1,2 @@
+# julineslike
+Staticka aplikacija
